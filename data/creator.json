@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Ayesha Kapoor",
+    "category": "Fashion",
+    "followers": "120K",
+    "bio": "Fashion influencer & stylist",
+    "image": "https://randomuser.me/api/portraits/women/75.jpg",
+    "social": {
+      "instagram": "https://instagram.com/ayeshakapoor",
+      "youtube": "https://youtube.com/ayeshakapoor"
+    },
+    "engagement_rate": "3.2%",
+    "avg_views": "25K"
+  },
+  {
+    "name": "Rohan Mehra",
+    "category": "Travel",
+    "followers": "98K",
+    "bio": "Globetrotter sharing travel stories",
+    "image": "https://randomuser.me/api/portraits/men/32.jpg",
+    "social": {
+      "instagram": "https://instagram.com/rohanmehra",
+      "youtube": "https://youtube.com/rohanmehra"
+    },
+    "engagement_rate": "4.1%",
+    "avg_views": "18K"
+  },
+  {
+    "name": "Simran Kaur",
+    "category": "Beauty",
+    "followers": "150K",
+    "bio": "Makeup artist & beauty vlogger",
+    "image": "https://randomuser.me/api/portraits/women/65.jpg",
+    "social": {
+      "instagram": "https://instagram.com/simrankaur",
+      "youtube": "https://youtube.com/simrankaur"
+    },
+    "engagement_rate": "3.8%",
+    "avg_views": "30K"
+  },
+  {
+    "name": "Arjun Singh",
+    "category": "Fitness",
+    "followers": "110K",
+    "bio": "Fitness coach & nutrition expert",
+    "image": "https://randomuser.me/api/portraits/men/45.jpg",
+    "social": {
+      "instagram": "https://instagram.com/arjunsingh",
+      "youtube": "https://youtube.com/arjunsingh"
+    },
+    "engagement_rate": "4.5%",
+    "avg_views": "22K"
+  },
+  {
+    "name": "Priya Sharma",
+    "category": "Food",
+    "followers": "87K",
+    "bio": "Food blogger & recipe creator",
+    "image": "https://randomuser.me/api/portraits/women/12.jpg",
+    "social": {
+      "instagram": "https://instagram.com/priyasharma",
+      "youtube": "https://youtube.com/priyasharma"
+    },
+    "engagement_rate": "3.9%",
+    "avg_views": "15K"
+  },
+  {
+    "name": "Kabir Verma",
+    "category": "Tech",
+    "followers": "130K",
+    "bio": "Tech reviews & gadget unboxing",
+    "image": "https://randomuser.me/api/portraits/men/23.jpg",
+    "social": {
+      "instagram": "https://instagram.com/kabirverma",
+      "youtube": "https://youtube.com/kabirverma"
+    },
+    "engagement_rate": "2.7%",
+    "avg_views": "40K"
+  },
+  {
+    "name": "Neha Gupta",
+    "category": "Lifestyle",
+    "followers": "105K",
+    "bio": "Daily lifestyle & wellness tips",
+    "image": "https://randomuser.me/api/portraits/women/34.jpg",
+    "social": {
+      "instagram": "https://instagram.com/nehagupta",
+      "youtube": "https://youtube.com/nehagupta"
+    },
+    "engagement_rate": "3.5%",
+    "avg_views": "20K"
+  },
+  {
+    "name": "Vikram Joshi",
+    "category": "Automobile",
+    "followers": "92K",
+    "bio": "Car reviews & road trips",
+    "image": "https://randomuser.me/api/portraits/men/56.jpg",
+    "social": {
+      "instagram": "https://instagram.com/vikramjoshi",
+      "youtube": "https://youtube.com/vikramjoshi"
+    },
+    "engagement_rate": "4.0%",
+    "avg_views": "17K"
+  },
+  {
+    "name": "Ananya Rao",
+    "category": "Parenting",
+    "followers": "80K",
+    "bio": "Parenting tips & family vlogs",
+    "image": "https://randomuser.me/api/portraits/women/28.jpg",
+    "social": {
+      "instagram": "https://instagram.com/ananyarao",
+      "youtube": "https://youtube.com/ananyarao"
+    },
+    "engagement_rate": "3.6%",
+    "avg_views": "13K"
+  },
+  {
+    "name": "Rahul Desai",
+    "category": "Finance",
+    "followers": "115K",
+    "bio": "Personal finance & investment advice",
+    "image": "https://randomuser.me/api/portraits/men/67.jpg",
+    "social": {
+      "instagram": "https://instagram.com/rahuldesai",
+      "youtube": "https://youtube.com/rahuldesai"
+    },
+    "engagement_rate": "2.9%",
+    "avg_views": "28K"
+  },
+  {
+    "name": "Meera Nair",
+    "category": "Art",
+    "followers": "70K",
+    "bio": "Artist & illustrator",
+    "image": "https://randomuser.me/api/portraits/women/41.jpg",
+    "social": {
+      "instagram": "https://instagram.com/meeranair",
+      "youtube": "https://youtube.com/meeranair"
+    },
+    "engagement_rate": "4.3%",
+    "avg_views": "12K"
+  },
+  {
+    "name": "Siddharth Jain",
+    "category": "Gaming",
+    "followers": "140K",
+    "bio": "Gamer & streamer",
+    "image": "https://randomuser.me/api/portraits/men/78.jpg",
+    "social": {
+      "instagram": "https://instagram.com/siddharthjain",
+      "youtube": "https://youtube.com/siddharthjain"
+    },
+    "engagement_rate": "5.0%",
+    "avg_views": "50K"
+  },
+  {
+    "name": "Tanya Bhatia",
+    "category": "Books",
+    "followers": "60K",
+    "bio": "Book reviews & recommendations",
+    "image": "https://randomuser.me/api/portraits/women/53.jpg",
+    "social": {
+      "instagram": "https://instagram.com/tanyabhatia",
+      "youtube": "https://youtube.com/tanyabhatia"
+    },
+    "engagement_rate": "3.7%",
+    "avg_views": "10K"
+  },
+  {
+    "name": "Manav Patel",
+    "category": "Photography",
+    "followers": "125K",
+    "bio": "Photographer & visual storyteller",
+    "image": "https://randomuser.me/api/portraits/men/12.jpg",
+    "social": {
+      "instagram": "https://instagram.com/manavpatel",
+      "youtube": "https://youtube.com/manavpatel"
+    },
+    "engagement_rate": "4.2%",
+    "avg_views": "35K"
+  },
+  {
+    "name": "Isha Malhotra",
+    "category": "Dance",
+    "followers": "112K",
+    "bio": "Dancer & choreographer",
+    "image": "https://randomuser.me/api/portraits/women/19.jpg",
+    "social": {
+      "instagram": "https://instagram.com/ishamalhotra",
+      "youtube": "https://youtube.com/ishamalhotra"
+    },
+    "engagement_rate": "4.6%",
+    "avg_views": "27K"
+  }
+]
