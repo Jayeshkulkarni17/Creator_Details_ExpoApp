@@ -1,4 +1,4 @@
-# yourname-creator-detail-rn
+# Creator-Detail-Expo
 
 A React Native app built with Expo that displays a list of creators with their details, supporting both light and dark themes.
 
